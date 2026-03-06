@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import PropertyCard from "../components/propertyCard";
+import PropertyCard from "../components/PropertyCard";
 import Filters from "../components/Filters";
 import SkeletonCard from "../components/SkeletonCard";
 import EnquiryModal from "../components/EnquiryModel";
